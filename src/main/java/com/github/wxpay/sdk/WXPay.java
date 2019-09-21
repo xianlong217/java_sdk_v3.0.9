@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class WXPay {
-
+	// 测试branch分支-- 提交branch1到本地
     private WXPayConfig config;
     private SignType signType;
     private boolean autoReport;
