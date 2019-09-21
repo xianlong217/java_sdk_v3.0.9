@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class WXPay {
-
+	// 我是master主干代码
     private WXPayConfig config;
     private SignType signType;
     private boolean autoReport;
